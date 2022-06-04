@@ -1,0 +1,7 @@
+Informacion Academica,
+
+Nombre: Kenia Leticia Marquez Guevara,
+Codigo: SMIS651819,
+Carrera: Ing.Sistemas y redes informaticas,
+Facultad: Ciencia y tecnologia,
+Año Academico: 2022
